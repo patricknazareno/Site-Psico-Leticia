@@ -23,9 +23,10 @@ a{
     padding: 0px 50px;
 }
 
-.sobreAtendimento{
-    width: 80px;
-    height: 100vh;
-    display: flex;
-    
+.containerAtendimento img{
+    float: left;
+    height: 500px;
+    margin-right: 20px;
 }
+
+
